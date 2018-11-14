@@ -1,4 +1,4 @@
-#Appium Workshop
+# Appium Workshop
 
 ## Steps to execute
 
@@ -10,5 +10,5 @@
 5. `bundle exec jekyll serve`
 6. Preview should be there here `http://localhost:4000`
 
-##To render the local changes
+## To render the local changes
 `bundle update github-pages` and refresh the localhost site 
